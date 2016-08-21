@@ -1,0 +1,22 @@
+{
+  "name": "groupbar",
+  "version": "1.0.0",
+  "description": "侧边栏滑动选择组件",
+  "main": "GroupBar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuzheng644607/react-native-GroupBar.git"
+  },
+  "keywords": [
+    "groupbar"
+  ],
+  "author": "lyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuzheng644607/react-native-GroupBar/issues"
+  },
+  "homepage": "https://github.com/liuzheng644607/react-native-GroupBar#readme"
+}
