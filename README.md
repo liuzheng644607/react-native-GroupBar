@@ -1,6 +1,8 @@
 # react-native-GroupBar
 一个RN的分组栏组件, 比如手机联系人旁的拼音滑动栏
+---
 ![demo](https://github.com/liuzheng644607/react-native-GroupBar/blob/master/demo.gif)
+
 # Props
 ## indexs [Array]
  必须传递每一项都是一个索引，每项支持string/number  和 object 的方式.
